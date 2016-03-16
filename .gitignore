@@ -1,0 +1,5 @@
+packages/*
+VendingMachine/bin/*
+VendingMachine/obj/*
+VM.Test/obj/*
+VM.Test/bin/*
